@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/create_group"
+    android:title="创建群聊"/>
+    <item
+        android:id="@+id/add_friend_or_group"
+        android:title="加好友/群"/>
+    <item
+        android:id="@+id/match_group"
+        android:title="匹配聊天"/>
+    <item
+        android:id="@+id/party_together"
+        android:title="一起派对"/>
+    <item
+        android:id="@+id/scan"
+        android:title="扫一扫"/>
+    <item
+        android:id="@+id/pay"
+        android:title="收付款"/>
+</menu>
